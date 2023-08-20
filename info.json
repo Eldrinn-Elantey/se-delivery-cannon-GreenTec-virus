@@ -1,0 +1,12 @@
+{
+  "name": "se-delivery-cannon-GreenTec-virus",
+  "version": "0.1.0",
+  "title": "SE weapons delivery cannon patch - GreenTec Virus",
+  "author": "Eldrinn",
+  "factorio_version": "1.1",
+  "dependencies": [ "base >= 1.1",
+  "space-exploration >= 0.5.114",
+  "GreenTec >= 1.0.1"
+],
+  "description": "Sending the virus with the Space Exploration Weapon Delivery Cannon"
+}
